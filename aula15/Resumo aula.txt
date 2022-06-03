@@ -1,0 +1,2 @@
+"Um array é uma variável composta que tem vários elementos. Cada elemento é composto por seu valor e por uma chave (key) de identificação". 
+- Guanabara, Gustavo.
